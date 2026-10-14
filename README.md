@@ -3,7 +3,7 @@
 > A modern, self-hosted WhatsApp Business CRM developed and customized by **Arte Analytics** to help businesses manage customer conversations, automate workflows, and improve sales productivity.
 
 <p align="center">
-  <img src="./public/logo.png" width="180" alt="iTechSkill WhatsApp CRM">
+  <img src="./public/itechskill.png" width="180" alt="iTechSkill WhatsApp CRM">
 </p>
 
 <p align="center">
